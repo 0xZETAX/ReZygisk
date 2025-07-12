@@ -1,6 +1,7 @@
 # ReZygisk
 [![Trusted CI](https://github.com/0xZETAX/ReZygisk/actions/workflows/trusted_ci.yml/badge.svg?branch=main)](https://github.com/0xZETAX/ReZygisk/actions/workflows/trusted_ci.yml)
 [![Untrusted CI](https://github.com/0xZETAX/ReZygisk/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/0xZETAX/ReZygisk/actions/workflows/ci.yml)
+
 [Bahasa Indonesia](/READMEs/README_id-ID.md)|[Tiếng Việt](/READMEs/README_vi-VN.md)|[Português Brasileiro](/READMEs/README_pt-BR.md)|[French](/READMEs/README_fr-FR.md)|[日本語](/READMEs/README_ja-JP.md)
 
 ReZygisk is a fork of Zygisk Next, a standalone implementation of Zygisk, providing Zygisk API support for KernelSU, APatch and Magisk (Official and Kitsune).
